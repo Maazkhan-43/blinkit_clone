@@ -1,0 +1,7 @@
+1)
+npm create vite@latest frontend ----template react
+
+2) clean up app.jsk and app.css
+
+3) installing routing lib from react routers
+npm install react-router-dom

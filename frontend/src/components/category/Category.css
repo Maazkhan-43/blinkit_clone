@@ -1,0 +1,25 @@
+.Category{
+    border: 2px black solid;
+    height: fit-content;
+    width: 150px;
+}
+.Category img{
+    height: 90px;
+    background-color: rgb(217, 236, 252);
+    border-radius: 10px;
+    padding: 10px 20px;
+    
+}
+
+.Category p{
+    font-size: small;
+    text-align: center;
+    text-wrap: inherit;
+}
+
+.CategoryList {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    border: 3px red solid;
+}
